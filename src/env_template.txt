@@ -1,0 +1,3 @@
+GROQ_API_KEY=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
+CLASS_SUBJECT_NAME=class_12/biology
+DEVICE=cpu  # Set to 'cuda' for GPU, 'cpu' for CPU
